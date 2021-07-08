@@ -1,0 +1,17 @@
+{
+    "name": "isaeken/password-generator-website",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "isaeken/password-generator": "dev-master",
+        "illuminate/support": "9.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isa Eken",
+            "email": "hello@isaeken.com.tr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
